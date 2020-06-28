@@ -1,0 +1,12 @@
+---
+title: "HelloWorld"
+author: "Kanokporn Promnikorn"
+date: "28/6/2563"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 
